@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Amazon.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container-fluid pt-5 pb-3">
+    <h2 class="section-title text-uppercase mx-xl-5 mb-4">
+        <a asp-action="Create">Create New</a>
+    </h2>
+
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4">
+        <span class="bg-secondary pr-3">Featured Products</span>
+    </h2>
+
+    <div class="row px-xl-5">
+        @foreach (var p in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <div class="product-item bg-light mb-4">
+                    <a asp-action="Details" asp-route-id="@p.Id">
+                        <img class="img-fluid w-100" src="~/img/@p.DefaultImage" alt="Product Image">
+                    </a>
+                    <div class="product-img position-relative overflow-hidden">
+                        
+                    </div>
+                    <div class="text-center py-4">
+                        <a class="h6 text-decoration-none text-truncate" asp-action="Details" asp-route-id="@p.Id">@p.ProductName</a>
+                        <div class="d-flex align-items-center justify-content-center mt-2">
+                            <h5>@p.Description</h5>
+                        </div>
+                        <div class="d-flex align-items-center justify-content-center mt-2">
+                            <h6 class="text-muted ml-2">@p.price</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

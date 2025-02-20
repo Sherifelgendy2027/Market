@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# mobadra\\Amazon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|d:\\c# mobadra\\amazon\\amazon\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|solutionrelative:amazon\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|d:\\c# mobadra\\amazon\\amazon\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|solutionrelative:amazon\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|d:\\c# mobadra\\amazon\\amazon\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|solutionrelative:amazon\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|d:\\c# mobadra\\amazon\\amazon\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FA43780-186D-4BB0-9DE1-C6B456FD93D8}|Amazon\\Amazon.csproj|solutionrelative:amazon\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C# mobadra\\Amazon\\Amazon\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Amazon\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\C# mobadra\\Amazon\\Amazon\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Amazon\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T17:26:27.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C# mobadra\\Amazon\\Amazon\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Amazon\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\C# mobadra\\Amazon\\Amazon\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Amazon\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T17:06:18.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\C# mobadra\\Amazon\\Amazon\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Amazon\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\C# mobadra\\Amazon\\Amazon\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Amazon\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:16:35.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C# mobadra\\Amazon\\Amazon\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Amazon\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\C# mobadra\\Amazon\\Amazon\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Amazon\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T15:56:46.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
